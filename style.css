@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+#topic{
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: inherit;
+}
+a {
+    background-color: transparent;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+    color: inherit;
+}
